@@ -1,0 +1,54 @@
+.d1{
+    border: 2px;
+    height: 70px;
+    
+}
+.d2{
+   
+    margin-top: 50px;
+    margin-left: 1000px;
+}
+.d2 a{
+    margin: 20px;
+   text-decoration: none;
+   font-size: 22px;
+   font-weight: bold;
+   color: whitesmoke;
+}
+.d2 a:hover{
+   
+    padding: 10px;
+    border-radius: 10px;
+    text-shadow: 2px 2px 2px oldlace;
+}
+#a1{
+    color: rgb(219, 155, 15);
+    margin-left: 20px;
+}
+.d6{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.d4{
+    color: whitesmoke;
+    margin-left: 20px;
+}
+.d5{
+    color: rgb(14, 78, 215);
+    margin-left: 20px;
+}
+#pic{
+    margin-left: 1000px;
+    margin-top: -400px;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    box-shadow: 3px 3px 3px rgb(9, 89, 170);
+    
+}
+#i1{
+    color: white;
+    margin-top: 20px;
+    font-size: 50px;
+    margin-left: 20px;
+}
